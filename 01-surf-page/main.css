@@ -1,0 +1,22 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+    background-color: royalblue;
+    border: 5px groove lightblue;
+}
+
+img {
+    margin: 0 auto;
+    border: 10px groove blue;
+    border-radius: 50%;
+    display: block;
+}
+
+h1 {
+    color: #375EAB;
+    text-shadow: 5px 5px 5px aqua;
+}
+
+p {
+    color: deepskyblue;
+}
